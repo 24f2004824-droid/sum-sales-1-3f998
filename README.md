@@ -7,3 +7,6 @@ License: MIT
 
 Round 2 Update:
 Add a Bootstrap table #product-sales showing all product totals
+
+Round 2 Update:
+Add a Bootstrap table #product-sales showing all product totals
